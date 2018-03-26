@@ -1,3 +1,3 @@
 # Problem-Solving
 
-Present all the programming problem which are solved
+Present all the programming problem which I solved
