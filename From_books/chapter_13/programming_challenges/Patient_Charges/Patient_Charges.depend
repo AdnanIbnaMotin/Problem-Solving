@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1594264121 source:/home/adnanrahman/coding/programmer/Patient_Charges/main.cpp
+	<iostream>
+	"Patient.h"
+	"Procedure.h"
+
+1594263290 source:/home/adnanrahman/coding/programmer/Patient_Charges/src/Procedure.cpp
+	"Procedure.h"
+
+1594262892 /home/adnanrahman/coding/programmer/Patient_Charges/include/Procedure.h
+	<iostream>
+
+1594241083 source:/home/adnanrahman/coding/programmer/Patient_Charges/src/Patient.cpp
+	<iostream>
+	"Patient.h"
+
+1594264254 /home/adnanrahman/coding/programmer/Patient_Charges/include/Patient.h
+
